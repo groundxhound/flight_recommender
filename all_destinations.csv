@@ -1,0 +1,446 @@
+iata_code;full_name
+AAL;Aalborg
+AAR;Aarhus
+ABJ;Abidjan
+ABQ;Albuquerque
+ABV;Abuja
+ABZ;Aberdeen
+ACC;Accra
+ACE;Lanzarote
+ADD;Addis Ababa
+ADL;Adelaide
+AER;Sotschi
+AGA;Agadir
+AGP;Malaga
+AJR;Arvidsjaur
+AKL;Auckland
+ALA;Almaty
+ALC;Alicante
+ALG;Algiers
+AMD;Abuja
+AMM;Amman
+AMS;Amsterdam
+ANC;Anchorage
+ANK;Ankara
+ANU;Anuha Island Resort
+AOI;Ancona
+ASE;Aspen
+ASU;Asuncion
+ATH;Athens
+ATL;Atlanta
+AUH;Abu Dhabi
+AUS;Austin
+AYT;Antalya
+BAQ;Barranquilla
+BCN;Barcelona
+BEG;Belgrade
+BER;Berlin
+BEY;Beirut
+BGI;Barbados
+BGO;Bergen
+BHM;Birmingham
+BHX;Birmingham
+BHZ;Belo Horizonte
+BIA;Bastia
+BIO;Bilbao
+BJS;Peking
+BKK;Bangkok
+BLL;Billund
+BLQ;Bologna
+BLR;Bangalore
+BNA;Nashville
+BNE;Brisbane
+BOG;Bogota
+BOM;Mumbai
+BOO;Boone
+BOS;Boston
+BRE;Bremen
+BRI;Bari
+BRN;Bern
+BRS;Bristol
+BRU;Brussels
+BSB;Brasilia
+BUD;Budapest
+BUE;Buenos Aires
+BUF;Buffalo
+BUH;Bucharest
+BWI;Baltimore
+BXN;Bodrum
+BZE;Belize City
+CAG;Cagliari
+CAI;Cairo
+CAN;Guangzhou
+CAS;Casablanca
+CCS;Caracas
+CCU;Kolkata
+CEI;Chiang Rai
+CFU;Corfu
+CGN;Cologne
+CGQ;Changchun
+CHC;Christchurch
+CHI;Chicago
+CHQ;Chania
+CHS;Charleston
+CKG;Chongqing
+CLE;Cleveland
+CLJ;Cluj
+CLO;Cali
+CLT;Charlotte
+CMB;Colombo
+CMH;Columbus
+CNS;Cairns
+CNX;Chiang Mai
+CPH;Copenhagen
+CPT;Cape Town
+CTA;Catania
+CTG;Chittagong
+CTU;Chengdu
+CUN;Cancun
+CVG;Cincinnati
+CWB;Curitiba
+DAR;Dar es Salaam
+DAY;Dayton
+DBV;Dubrovnik
+DEL;Delhi
+DEN;Denver
+DFW;Dallas
+DKR;Dakar
+DLA;Douala
+DLC;Dalian
+DLM;Dalaman
+DMM;Dammam
+DNK;Dnipropetrovsk
+DOH;Doha
+DOK;Donetsk
+DPS;Bali
+DRS;Dresden
+DRW;Darwin
+DSM;Des Moines
+DTM;Dortmund
+DTT;Detroit
+DUB;Dublin
+DUR;Durban
+DUS;Duesseldorf
+DVO;Davao City
+DXB;Dubai
+EAP;Basel
+EBB;Entebbe
+EBL;Erbil
+EDI;Edinburgh
+ELP;El Paso
+ELS;East London
+EVE;Evenes
+EVN;Zvartnots
+FAO;Faro
+FDH;Friedrichshafen
+FKB;Karlsruhe
+FLL;Fort Lauderdale
+FLN;FlorianÛpolis
+FLR;Florence
+FMO;MÅnster
+FMY;Page Field
+FNC;Madeira
+FRA;Frankfurt
+FUE;Fuerteventura
+FUK;Fukuoka
+GDL;Guadalajara
+GDN;Danzig
+GLA;Glasgow
+GOA;Genoa
+GOI;Goa
+GOJ;Nizhny Novgorod
+GOT;Gothenburg
+GRJ;George
+GRR;Grand Rapids
+GRZ;Graz
+GSP;Greenville
+GUA;Guatemala
+GVA;Geneva
+GWT;Sylt
+GYE;Guayaquil
+HAJ;Hannover
+HAM;Hamburg
+HAN;Hanoi
+HAV;Havana
+HEL;Helsinki
+HER;Crete
+HGH;Hangzhou
+HKG;Hong Kong
+HKT;Phuket
+HNL;Honolulu
+HOG;HolguÌn
+HOU;Houston
+HRB;Harbin
+HRG;Hurghada
+HRK;Kharkiv
+HSV;Huntsville
+HYD;Hyderabad
+IAS;Iasi
+IBZ;Ibiza
+ICT;Wichita
+IEV;Kiev
+IGU;Foz do IguaÁu
+IND;Indianapolis
+INN;Innsbruck
+IST;Istanbul
+IZM;Izmir
+JAC;Jackson
+JAX;Jacksonville
+JED;Jeddah
+JER;Jersey
+JKG;Jˆnkˆping
+JKT;Jakarta
+JMK;Mykonos
+JNB;Johannesburg
+JRO;Mount Kilimanjaro
+JTR;Santorini
+KBV;Krabi
+KGL;Kigali
+KGS;Kos
+KHH;Kaohsiung
+KIV;Chisinau
+KLU;Klagenfurt
+KLX;Kalamata
+KOA;Kailua
+KRK;Krakow
+KRN;Kiruna
+KRR;Krasnodar
+KRT;Khartoum
+KSC;Koöice
+KSD;Karlstad
+KTM;Kathmandu
+KTT;Lapland
+KTW;Pyrzowice
+KUF;Samara
+KUL;Kuala Lumpur
+KWI;Kuwait
+LAD;Luanda
+LAS;Las Vegas
+LAX;Los Angeles
+LCA;Larnaka
+LCJ;LÛdz
+LED;Saint Petersburg
+LEJ;Leipzig
+LIH;Hawaii
+LIM;Lima
+LIS;Lisbon
+LJU;Ljubljana
+LLA;La Romana
+LLW;Malawi
+LNZ;Linz
+LON;London
+LOS;Lagos
+LPA;Gran Canaria
+LPB;El Alto
+LUG;Lugano
+LUN;Lusaka
+LUX;Luxemburg
+LUZ;Lublin
+LVI;Livingstone
+LWO;Lviv
+LYR;Longyearbyen
+LYS;Lyon
+MAA;Chennai
+MAD;Madrid
+MAH;Menorca
+MAN;Manchester
+MBA;Mombasa
+MBJ;Montego Bay
+MCT;Muscat
+MDE;MedellÌn
+MDZ;Mendoza
+MEL;Melbourne
+MEM;Memphis
+MEX;Mexico
+MGA;Managua
+MIA;Miami
+MIL;Milan
+MKC;Kansas City
+MLA;Malta
+MLE;Male
+MNL;Manila
+MOW;Moscow
+MPL;Montpellier
+MPM;Maputo
+MQP;Nelspruit
+MRS;Marseille
+MRU;Mauritius
+MSP;Minneapolis
+MSQ;Minsk
+MSY;New Orleans
+MTY;Monterrey
+MUB;Maun
+MUC;Munich
+MVD;Montevideo
+NAN;Nadi
+NAP;Naples
+NBO;Nairobi
+NCE;Nice
+NCL;Newcastle
+NGO;Chubu
+NKG;Nanjing
+NQY;Newquay
+NUE;Nuremberg
+NYC;New York
+ODS;Odessa
+OGG;Kahului
+OKA;Okinawa
+OLB;Olbia
+OPO;Porto
+ORF;Norfolk
+ORL;Orlando
+OSA;Osaka
+OSL;Oslo
+PAD;Paderborn
+PAR;Paris
+PBI;West Palm Beach
+PDX;Portland
+PEG;Perugia
+PEN;Penang
+PER;Perth
+PHC;Port Harcourt
+PHL;Philadelphia
+PHX;New Philadelphia
+PIT;Pittsburgh
+PLZ;Port Elizabeth
+PMI;Palma de Mallorca
+PMO;Palermo
+PNH;Phnom Penh
+PNQ;Pune
+PNS;Pensacola
+POA;Porto Alegre
+POP;Puerto Plata
+POZ;Poznan
+PPT;Papeete
+PRG;Prague
+PRN;Pristina
+PSA;Pisa
+PSP;Palm Springs
+PTY;Panama
+PUJ;Punta Cana
+PUS;Busan
+PUY;Pula
+PVR;Puerto Vallatra
+QRO;QuerÈtaro City
+RAK;Marrakech
+RDU;Raleigh
+REC;Recife
+REK;ReykjavÌk
+REP;Siem Reap
+RGN;Yangon
+RHO;Rhodos
+RIO;Rio de Janeiro
+RIX;Riga
+RJK;Rijeka
+RLG;Rostock
+RNO;Reno
+ROM;Rome
+RTM;Rotterdam
+RUH;Ruhengeri
+RUN;RÈunion
+RZE;RzeszÛw
+SAC;Sacramento
+SAL;San Salvador
+SAN;San Diego
+SAO;Sao Paulo
+SAT;Satu Mare
+SAV;Savannah
+SBZ;Sibiu
+SCL;Santiago de Chile
+SCN;Saarbr¸cken
+SDF;Louisville
+SDQ;Santo Domingo
+SEA;Seattle
+SEL;Seoul
+SEZ;MahÈ
+SFO;San Francisco
+SGN;Ho Chi Minh City
+SHA;Shanghai
+SHE;Shenyang
+SIN;Singapore
+SJC;San Jose
+SJJ;Sarajevo
+SJO;San JosÈ
+SJU;San Juan
+SKG;Thessaloniki
+SKP;Skopje
+SLC;Salt Lake City
+SLP;San Luis PotosÌ City
+SLU;Saint Lucia
+SNU;Santa Clara
+SOF;Sofia
+SPC;La Palma
+SPK;Sapporo
+SPU;Split
+SSA;Salvador
+SSG;Malabo
+SSH;Sharm el Sheikh
+STL;St. Louis
+STO;Stockholm
+STR;Stuttgart
+SUB;Surabaya
+SUF;Calabria
+SVG;Stavanger
+SVQ;Sevilla
+SVX;Yekaterinburg
+SXB;Strasbourg
+SYD;Sydney
+SZG;Salzburg
+TAB;Tobago
+TAO;Qingdao
+TBS;Tbilisi
+TCI;Tenerife
+TGD;Podgorica
+THR;Tehran
+TIA;Tirana
+TLL;Tallinn
+TLS;Toulouse
+TLV;Tel Aviv
+TOS;Tromso
+TPA;Tampa
+TPE;Taipei
+TRD;Trondheim
+TRN;Turin
+TRS;Trieste
+TSE;Astana
+TSR;Timisoara
+TUN;Tunis
+TUS;Tucson
+TYO;Tokyo
+UIO;Quito
+UME;Umea
+USH;Ushuaia
+USM;Ko Samui
+VAR;Varna
+VCE;Venice
+VIE;Vienna
+VLC;Valencia
+VNO;Vilnius
+VRA;Varadero
+VRN;Verona
+VTE;Vientiane
+WAS;Washington D.C.
+WAW;Warsaw
+WDH;Windhoek
+WUH;Wuhu
+WVB;Walvis Bay
+XMN;Xiamen
+XRY;Jerez de la Frontera
+YAO;Yaounde 
+YEA;Edmonton
+YHZ;Halifax
+YKA;Kamloops
+YLW;Kelowna
+YMQ;Montreal
+YOW;Ottawa
+YQB;Quebec City
+YTO;Toronto
+YVR;Vancouver
+YWG;Winnipeg
+YXE;Saskatoon
+YYC;Calgary
+YYJ;Victoria
+ZAD;Zadar
+ZAG;Zagreb
+ZNZ;Zanzibar
+ZRH;Zurich

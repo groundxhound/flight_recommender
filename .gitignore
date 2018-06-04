@@ -1,0 +1,6 @@
+*.xml
+*.iml
+recommender/__pycache__/
+recommender/gui/__pycache/
+.spyproject
+destination_similarity.csv
