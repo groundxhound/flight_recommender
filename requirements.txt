@@ -19,5 +19,5 @@ wikipedia==1.4.0
 py2neo==2.0.8
 flask_googlemaps==0.2.6
 gensim==3.4.0
-nltk==3.2.5
+nltk==3.4.5
 python-unsplash==1.0.0a2
